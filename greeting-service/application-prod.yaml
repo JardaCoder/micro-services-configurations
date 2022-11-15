@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Hello"
-  default-value: "Prod World"
+  default-value: "Prod World Nova config"
